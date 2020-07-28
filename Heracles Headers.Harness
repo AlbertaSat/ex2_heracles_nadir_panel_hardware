@@ -1,0 +1,2 @@
+Deployment_Nadir=VKnife,UHFKnifeReturn_N,UHFSwitch_N,DFGMKnifeReturn,DFGMSwitch
+SPI_Nadir=SPI_CLK,SPI_MISO,SPI_MOSI,SPI_nCS_N
